@@ -1,4 +1,6 @@
-FlimixST:630249447:owner
-melixWTF:695598879:owner
-TroYanH:434772589:owner
-dealwithmalinov:615081290:owner
+FlimixST:630249447:admin
+melixWTF:695598879:admin
+TroYanH:434772589:admin
+dealwithmalinov:615081290:admin
+stqffyislegend:428105732:admin
+
